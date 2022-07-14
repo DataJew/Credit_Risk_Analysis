@@ -13,7 +13,7 @@ This new assignment consists of three technical analysis deliverables and a writ
 1. ***Deliverable 1:*** Use Resampling Models to Predict Credit Risk
 2. ***Deliverable 2:*** Use the SMOTEENN Algorithm to Predict Credit Risk
 3. ***Deliverable 3:*** Use Ensemble Classifiers to Predict Credit Risk
-4. ***Deliverable 4:*** A Written Report on the Credit Risk Analysis [README.md](https://github.com/DatJew/Credit_Risk_Analysis)
+4. ***Deliverable 4:*** A Written Report on the Credit Risk Analysis [`README.md`](https://github.com/DatJew/Credit_Risk_Analysis)
 
 ## Results
 A Classification report is used to measure the quality of predictions from a classification algorithm. 
