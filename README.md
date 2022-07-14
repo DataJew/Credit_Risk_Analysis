@@ -20,7 +20,7 @@ Below are the results from the various techniques used to predictive model for H
 
 
 **BalancedRandomForestClassifier:**
-
+![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Balanced%20RFC.png)
 
 
 **ClusterCentroids:**  
