@@ -19,10 +19,6 @@ This new assignment consists of three technical analysis deliverables and a writ
 Below are the results from the various techniques used to predictive model for High-Risk loans.  
 
 
-**RandomOverSample:**  
-
-
-
 **BalancedRandomForestClassifier:**
 
 
@@ -32,6 +28,10 @@ Below are the results from the various techniques used to predictive model for H
 
 
 **EasyEnsembleClassifier:**  
+
+
+
+**RandomOverSample:**  
 
 
 
