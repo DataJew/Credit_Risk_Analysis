@@ -68,5 +68,5 @@ How many predictions are True and how many are False. More specifically, True Po
 ![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Easy%20Ensemble%20Adaboost%20Classidfier.png)
 
 ## Summary
-
-
+For all models, utilizing **BalancedRandomForestClassifier** is the most effective as it provides the highest Score for all Risk loans.
+The precision is low or none for all the models. In General, the **EasyEnsembleClassifier** algorythm will perform a High-Risk loan precision with more accuracy than the additional models.
