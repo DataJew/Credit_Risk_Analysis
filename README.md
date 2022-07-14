@@ -16,6 +16,20 @@ This new assignment consists of three technical analysis deliverables and a writ
 4. ***Deliverable 4:*** A Written Report on the Credit Risk Analysis [README.md](https://github.com/DatJew/Credit_Risk_Analysis)
 
 ## Results
+A Classification report is used to measure the quality of predictions from a classification algorithm. 
+
+The report shows the main classification metrics precision, recall and f1-score on a per-class basis. The metrics are calculated by using true and false positives, true and false negatives. Positive and negative in this case are generic names for the predicted classes. There are four ways to check if the predictions are right or wrong:
+
+TN / True Negative: when a case was negative and predicted negative
+TP / True Positive: when a case was positive and predicted positive
+FN / False Negative: when a case was positive but predicted negative
+FP / False Positive: when a case was negative but predicted positive
+
+Precision = TP/(TP + FP) ***What percent of your predictions were correct?***
+Recall = TP/(TP+FN) ***What percent of the positive cases did you catch?*** 
+F1 Score = 2*(Recall * Precision) / (Recall + Precision) ***What percent of positive predictions were correct?*** 
+
+How many predictions are True and how many are False. More specifically, True Positives, False Positives, True negatives and False Negatives are used to predict the metrics of a classification report as shown below.
 
 ### Oversampling
 
@@ -50,4 +64,4 @@ This new assignment consists of three technical analysis deliverables and a writ
 
 ## Summary
 
-The precision is low or none for all the models.
+
