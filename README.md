@@ -15,33 +15,39 @@ This new assignment consists of three technical analysis deliverables and a writ
 3. ***Deliverable 3:*** Use Ensemble Classifiers to Predict Credit Risk
 4. ***Deliverable 4:*** A Written Report on the Credit Risk Analysis [README.md](https://github.com/DatJew/Credit_Risk_Analysis)
 
-### Results
+## Results
 Below are the results from the various techniques used to predictive model for High-Risk loans.  
 
+### Oversampling
+
+**RandomOverSample:**  
+![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Naive%20Random%20Oversampling.png)
+
+
+**SMOTE:** 
+![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20SMOTE%20Oversampling.png)
+
+
+### Undersampling
+
+**ClusterCentroids:**  
+![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Undersampling.png)
+
+
+### Combination (Over and Under) Sampling
+
+**SMOTEENN:**  
+![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Combination.png)
+
+
+### Ensemble Learners
 
 **BalancedRandomForestClassifier:**
 ![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Balanced%20RFC.png)
 
 
-**ClusterCentroids:**  
-
-
-
 **EasyEnsembleClassifier:**  
-
-
-
-**RandomOverSample:**  
-
-
-
-**SMOTE:** 
-
-
-
-**SMOTEENN:**  
-
-
+![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Easy%20Ensemble%20Adaboost%20Classidfier.png)
 
 ## Summary:
 
