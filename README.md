@@ -16,7 +16,7 @@ This new assignment consists of three technical analysis deliverables and a writ
 4. ***Deliverable 4:*** A Written Report on the Credit Risk Analysis [README.md](https://github.com/DatJew/Credit_Risk_Analysis)
 
 ## Results
-Below are the results from the various techniques used to predictive model for High-Risk loans:
+***Below are the results from the various techniques used to predictive model for High-Risk loans:***
 
 
 ### Oversampling
