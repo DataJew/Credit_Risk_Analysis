@@ -17,36 +17,36 @@ This new assignment consists of three technical analysis deliverables and a writ
 
 ## Results
 
-### ***Oversampling***
+### Oversampling
 
 **RandomOverSample:**  
 ![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Naive%20Random%20Oversampling.png)
 
 
-**SMOTE:** 
+**SMOTE** 
 ![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20SMOTE%20Oversampling.png)
 
 
-### ***Undersampling***
+### Undersampling
 
-**ClusterCentroids:**  
+***ClusterCentroids***  
 ![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Undersampling.png)
 
 
 ### Combination (Over and Under) Sampling
 
-**SMOTEENN:**  
+***SMOTEENN***  
 ![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Combination.png)
 
 
-### ***Ensemble Learners***
+### Ensemble Learners
 
-**BalancedRandomForestClassifier:**
+***BalancedRandomForestClassifier***
 ![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Balanced%20RFC.png)
 
 
-**EasyEnsembleClassifier:**  
+***EasyEnsembleClassifier***  
 ![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Easy%20Ensemble%20Adaboost%20Classidfier.png)
 
-## Summary:
+## Summary
 
