@@ -50,3 +50,4 @@ This new assignment consists of three technical analysis deliverables and a writ
 
 ## Summary
 
+The precision is low or none for all the models.
