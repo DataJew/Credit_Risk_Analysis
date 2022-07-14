@@ -25,9 +25,14 @@ TP / True Positive: when a case was positive and predicted positive
 FN / False Negative: when a case was positive but predicted negative
 FP / False Positive: when a case was negative but predicted positive
 
-Precision = TP/(TP + FP) ***What percent of your predictions were correct?***
-Recall = TP/(TP+FN) ***What percent of the positive cases did you catch?*** 
-F1 Score = 2*(Recall * Precision) / (Recall + Precision) ***What percent of positive predictions were correct?*** 
+Precision = TP/(TP + FP) 
+***What percent of your predictions were correct?***
+
+Recall = TP/(TP+FN)
+***What percent of the positive cases did you catch?*** 
+
+F1 Score = 2*(Recall * Precision) / (Recall + Precision) 
+***What percent of positive predictions were correct?*** 
 
 How many predictions are True and how many are False. More specifically, True Positives, False Positives, True negatives and False Negatives are used to predict the metrics of a classification report as shown below.
 
