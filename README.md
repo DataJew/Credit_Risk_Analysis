@@ -34,15 +34,15 @@ Recall = TP/(TP+FN)
 F1 Score = 2*(Recall * Precision) / (Recall + Precision) 
 ***What percent of positive predictions were correct?*** 
 
-How many predictions are True and how many are False. More specifically, True Positives, False Positives, True negatives and False Negatives are used to predict the metrics of a classification report as shown below.
+How many predictions are True and how many are False. More specifically, True Positives, False Positives, True negatives and False Negatives are used to predict the metrics of a classification report as shown below:
 
 ### Oversampling
 
-**RandomOverSample:**  
+***RandomOverSample***  
 ![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20Naive%20Random%20Oversampling.png)
 
 
-**SMOTE** 
+***SMOTE*** 
 ![image](https://github.com/DataJew/Credit_Risk_Analysis/blob/main/Resources/images/CM%20-%20SMOTE%20Oversampling.png)
 
 
